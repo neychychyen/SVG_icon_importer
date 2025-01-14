@@ -11,10 +11,12 @@
 <hr>
 Инструкция по запуску
 <ol>
-<li>Командной строкой склонируйте репозиторий ```
-bash
-git clone https://github.com/neychychyen/SVG_icon_importer.git```</li>
-<li>Очистите ./data/pngs/ </li>
+<li>Командной строкой склонируйте репозиторий 
+    ```bash
+    git clone https://github.com/neychychyen/SVG_icon_importer.git
+    ```
+</li>
+<li>Очистите `./data/pngs/` </li>
 <li>Поместите изображения в папку ./data/pngs/ </li>
 <li>Запустите docker-контейнер в командной строке в папке с проектом командой ```
 bash
