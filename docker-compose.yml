@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  svg-tracer:
+    build: .
+    volumes:
+      - ./data:/app/workspace
+      - ./app:/app
