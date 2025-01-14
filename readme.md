@@ -9,6 +9,7 @@
 <summary>Установка</summary>
 <p>Для приложения должен быть обязательно установлен <a href="https://www.docker.com/products/docker-desktop/">docker desktop</a></p>     
 <hr>
+
 Инструкция по запуску
 1. Командной строкой склонируйте репозиторий:
     ```bash
